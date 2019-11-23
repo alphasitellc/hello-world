@@ -1,0 +1,16 @@
+{
+    "name": "rafa/hello-world",
+    "description": "Testing composer package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafael",
+            "email": "rafael@alphasitellc.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "alphasitellc/hello-composer": "^0.0.1"
+    }
+}
