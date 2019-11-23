@@ -10,7 +10,12 @@
         }
     ],
     "minimum-stability": "stable",
+    "repositories": [
+        {
+            "type": "artifact",
+            "url": "/packages/alphasitellc/"
+        }    ],
     "require": {
-        "alphasitellc/hello-composer": "^0.0.1"
+        "alphasitellc/hello-composer": "^0.0.2"
     }
 }
